@@ -1,0 +1,2 @@
+["load_signal",('/home/foz/Dropbox/Rea/Ler_FLCVenus_root2/wall.tif', False),{}]
+["load_label",('/home/foz/Dropbox/Rea/Ler_FLCVenus_root2/segmentation.tif', False),{}]
